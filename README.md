@@ -1,9 +1,9 @@
 ## Welcome to Kotlin SM WorkShop
 
-### Jekyll Themes
+### Explore Kotlin
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ousa17/kotlin-sm-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In first place we will explore Kotlin Basics.
 
-### Support or Contact
+### Full Kotlin Advanced Project
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Then we will pass to the maximum speed and integrate Rxjava, Room, LiveData, Retrofit and Dagger2 all around Architecture Components.
